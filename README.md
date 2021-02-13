@@ -1,4 +1,4 @@
-# vue interview
+# vue products
 
 ## Project setup
 ```
